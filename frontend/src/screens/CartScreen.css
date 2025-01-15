@@ -18,12 +18,12 @@
 .cartscreen__right {
   flex: 0.3;
   background: #fff;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 1px 4px rgba(30, 175, 37, 0.4);
   height: fit-content;
 }
 
 .cartscreen__right div {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(27, 64, 159, 0.2);
   padding: 1rem;
 }
 
@@ -42,7 +42,7 @@
 .cartscreen__right div button {
   padding: 10px 17px;
   width: 100%;
-  background: #171717;
+  background: #1bdbc1;
   color: #f4f4f4;
   border: 1px solid #171717;
   cursor: pointer;

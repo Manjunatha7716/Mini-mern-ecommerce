@@ -1,4 +1,6 @@
 require("dotenv").config();
+console.log("Mongo URI:", process.env.MONGO_URI); // Debugging line
+
 const express = require("express");
 const productRoutes = require("./routes/productRoutes");
 const connectDB = require("./config/db");

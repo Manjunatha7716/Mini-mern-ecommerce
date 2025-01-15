@@ -30,7 +30,7 @@
 .left__info > p,
 .right__info > p {
   padding: 1rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(65, 132, 88, 0.2);
 }
 
 .left__info > p:last-child,
@@ -60,9 +60,9 @@
   grid-column: 1/-1;
   width: 100%;
   padding: 10px 16px;
-  background: #171717;
+  background: #3e8d93;
   color: #f4f4f4;
-  border: 1px solid #171717;
+  border: 1px solid #53a669;
   cursor: pointer;
   border-radius: 5px;
 }
