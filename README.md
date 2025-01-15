@@ -128,3 +128,7 @@ This project is licensed under the MIT License.
 
 Feel free to modify any sections to better suit your project or preferences!
 
+![image](https://github.com/user-attachments/assets/158b4692-48ab-43a0-89e8-a2e7337d6725)
+![image](https://github.com/user-attachments/assets/cdc4def9-28fa-4a24-bc37-0654fc410f8b)
+
+
